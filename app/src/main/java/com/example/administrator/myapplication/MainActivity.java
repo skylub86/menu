@@ -45,7 +45,7 @@ class MyAdapter extends BaseAdapter{
     LayoutInflater inflater;
     ArrayList<MyAdapter> adt;
     int layout;
-
+  
     public MyAdapter(Context context, int alayout, ArrayList<MyAdapter> aadt){
         con= context;
         inflater=(LayoutInflater) context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
