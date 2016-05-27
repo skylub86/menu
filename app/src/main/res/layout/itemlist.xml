@@ -6,10 +6,9 @@
     <ImageView
         android:layout_width="100dp"
         android:layout_height="120dp"
-        android:id="@+id/imageView"
-        android:src="@drawable/choa"
+        android:id="@+id/imageView"/>
+        <!--android:src="@drawable/choa"-->
 
-        />
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="match_parent"
